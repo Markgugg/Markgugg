@@ -1,6 +1,6 @@
 # Mark Guggenheim
  
-Full-stack developer and CS student at San Diego State University. I build and ship real software — from event ticketing platforms to mobile apps to affiliate analytics tools.
+Full-stack developer and CS student at San Diego State University.
  
 ## What I'm building
  
