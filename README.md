@@ -7,7 +7,7 @@ Full-stack developer and CS student at San Diego State University.
 | Project | Description | Stack |
 |---|---|---|
 | **[RAGE](https://rage.events)** | Co-founded student event ticketing platform, created events, sold tickets, Stripe payments, and QR check-in. Live with real users. | Next.js, TypeScript, Supabase, Stripe, Resend, Vercel |
-| **[Grind](https://leetcode-tracker-app.vercel.app)** | Social LeetCode tracker for friend groups, weekly quotas, live leaderboards, auto-synced from LeetCode profiles, push notifications. | Expo, TypeScript, Supabase, Edge Functions, Expo Push |
+| **[LeetAI](https://github.com/Markgugg/leetai-web)** | Social LeetCode tracker for friend groups — weekly quotas, live leaderboards, auto-synced from LeetCode profiles, push notifications. | Expo, TypeScript, Supabase, Edge Functions, Expo Push |
 | **TikTok Shop Dashboard** | Personal analytics dashboard for tracking affiliate sales, video performance, and commission trends without digging through the TikTok app. | Next.js, TypeScript, shadcn/ui, NextAuth |
  
 ## Tech
